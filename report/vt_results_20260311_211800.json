@@ -1,0 +1,184 @@
+{
+  "results": [
+    {
+      "timestamp": "2026-03-11T21:13:41.676051",
+      "type": "ip",
+      "query": "8.8.8.8",
+      "data": {
+        "reputation": 528,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 34,
+          "harmless": 60,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:14:11.531879",
+      "type": "ip",
+      "query": "8.8.9.8",
+      "data": {
+        "reputation": 0,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 35,
+          "harmless": 59,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:14:38.317918",
+      "type": "ip",
+      "query": "192.168.1.1",
+      "data": {
+        "reputation": 49,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 34,
+          "harmless": 60,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:14:53.597933",
+      "type": "ip",
+      "query": "192.168.1.2",
+      "data": {
+        "reputation": 4,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 36,
+          "harmless": 58,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:15:16.694513",
+      "type": "domain",
+      "query": "exemple.com",
+      "data": {
+        "reputation": -2,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 35,
+          "harmless": 59,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:15:58.178108",
+      "type": "domain",
+      "query": "google-gruyere.appspot.com",
+      "data": {
+        "reputation": 0,
+        "stats": {
+          "malicious": 1,
+          "suspicious": 0,
+          "undetected": 34,
+          "harmless": 59,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:16:14.725240",
+      "type": "domain",
+      "query": "yandex.ru",
+      "data": {
+        "reputation": -40,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 30,
+          "harmless": 64,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:16:33.015260",
+      "type": "domain",
+      "query": "google.com",
+      "data": {
+        "reputation": 687,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 28,
+          "harmless": 66,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:16:51.903516",
+      "type": "domain",
+      "query": "hse.ru",
+      "data": {
+        "reputation": 0,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 32,
+          "harmless": 62,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:17:24.704909",
+      "type": "domain",
+      "query": "mail.ru",
+      "data": {
+        "reputation": -21,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 29,
+          "harmless": 65,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:17:39.312272",
+      "type": "domain",
+      "query": "vk.ru",
+      "data": {
+        "reputation": 0,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 34,
+          "harmless": 60,
+          "timeout": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:17:55.629340",
+      "type": "domain",
+      "query": "vk.com",
+      "data": {
+        "reputation": 11,
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 30,
+          "harmless": 64,
+          "timeout": 0
+        }
+      }
+    }
+  ]
+}
